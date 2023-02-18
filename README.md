@@ -32,7 +32,6 @@ The `main.py` script can be used to run a benchmark of different reinforcement l
 This will output the average rewards and standard deviation of each algorithm over 50 trials.
 
 # Reproduction Results
-
 ![](results/enduro.gif)
 ![](results/pong.gif)
 ![](results/moving.gif)
