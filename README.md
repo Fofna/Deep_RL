@@ -1,4 +1,4 @@
-# Deep Reinforcement learning from human preferences
+# Deep Reinforcement Learning From Human Preferences
 
 Find the Article Link here : https://arxiv.org/abs/1706.03741
 
