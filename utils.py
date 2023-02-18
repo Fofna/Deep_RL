@@ -1,8 +1,8 @@
 import numpy as np
 import tensorflow as tf
 
-from neural_net import DoubleQNetwork
-from buffer import experience_buffer
+from nnet import DoubleQNetwork
+from Buffer import experience_buffer
 #import tf.layers.{dense, conv2d
 import os
 
