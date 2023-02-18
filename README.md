@@ -23,10 +23,10 @@ To run the code, first install the required dependencies listed in `requirements
 
 pip install -r requirements.txt
 
-Then, run the desired script. For example, to run the A2C algorithm, execute: A2C.py or deepA3C.py
+Then, run the desired script. For example, to run the A2C algorithm, execute: A2C.py or deepA3C.py.
 The script will train the agent and save the learned model in a file named `a2c_model.h5`. The `Videos.py` module can be used to generate videos of the agent playing the game.
 
-The `main.py` script can be used to run a benchmark of different reinforcement learning algorithms without human supervision. To run the benchmark, execute `main.py`
+The `main.py` script can be used to run a benchmark of different reinforcement learning algorithms without human supervision. To run the benchmark, execute `main.py`.
 
 
 This will output the average rewards and standard deviation of each algorithm over 50 trials.
