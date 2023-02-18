@@ -35,10 +35,9 @@ This will output the average rewards and standard deviation of each algorithm ov
 
 ![](results/enduro.gif)
 ![](results/pong.gif)
+![](results/breakout.gif)
 ![](results/moving.gif)
-![](images/moving-dot.gif)
-![](images/pong.gif)
-![](images/enduro.gif)
+![](results/seaquestsave.gif)
 
 The main objective of this reproduction project was to implement and reproduce the results of the paper "Deep Reinforcement Learning from Human Preferences" by Christiano et al. (2017). We successfully implemented the algorithms and conducted experiments on various environments, both synthetic and real, to reproduce the main results presented in the paper. Here we summarize our findings and compare them with the results reported in the original paper.
 
