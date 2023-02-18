@@ -1,4 +1,4 @@
-from q_table import q_table_learning, nn_learning
+from Q_table import q_table_learning, nn_learning
 from utils import train_dqn
 
 import numpy as np
