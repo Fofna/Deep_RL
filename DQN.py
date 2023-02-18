@@ -3,7 +3,7 @@ import tensorflow as tf
 import pandas as pd
 
 from neural_net import DoubleQNetwork
-from buffer import experience_buffer
+from Buffer import experience_buffer
 #import tf.layers.{dense, conv2d
 import os
 
