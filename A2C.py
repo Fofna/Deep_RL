@@ -4,11 +4,11 @@ import pandas as pd
 import gym
 import random
 
-from dueling_dqn import update_target_graph
-from neural_net import A2CPolicy
-from a2c_net import ActorCritic
-from buffer import experience_buffer
-from videos import choose_sample
+from DQN import update_target_graph
+from nnet import A2CPolicy
+from a2c_network import ActorCritic
+from Buffer import experience_buffer
+from Videos import choose_sample
 
 
 
